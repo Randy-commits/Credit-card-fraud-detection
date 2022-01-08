@@ -1,0 +1,12 @@
+How to run the files
+Requirements
+1. Jupyter notebook
+2. Visual studio code
+3. Google chrome
+STEPS
+step 1: Download and install jupyter notebook
+step 2: Download and install visual studio code
+step 3: Use google chrome as preferred internet browser
+step 4: Deploy the logistic file and run it using visual studio code
+step 5: After deploying it, you will be provided with a localhost to run the application
+step 6: After running the application, input the necessary attributes to get your predicted result.
